@@ -9,3 +9,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitisko&layout=compact&theme=light" alt="Github top used languages">
 </div>
+
+[![Spotify](https://novatorem-delta-eight.vercel.app/api/spotify)](https://open.spotify.com/user/31oikzl7zjhyev2qg2i6emgmh7x4)
