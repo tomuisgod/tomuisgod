@@ -1,7 +1,9 @@
 ### Helo I'm tomu
 👋 | I'm Python Discord bot developer 
 
-⚙️ | I'm currently working on Amused open source bot!
+📍 | I want to learn Kotlin, C#
+
+⚙️ | I use Python, Javascript, HTML&CSS
 
 <a href="http://tomu.glitch.me/"> <img src="https://img.shields.io/static/v1?label=Web&message=tomu.glitch.me&color=f6fd85&style=venrav" alt="tomu.glitch.me"></a> 
 <a href="http://amusedbot.glitch.me/webpage.html"> <img src="https://img.shields.io/static/v1?label=Web&message=amusedbot.glitch.me&color=6364b4&style=venrav" alt="amusedbot.glitch.me"></a> 
