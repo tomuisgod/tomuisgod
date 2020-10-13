@@ -10,6 +10,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitisko&layout=compact&theme=light" alt="Github top used languages">
 </div>
-<a href="https://github.com/veldik"> <img src="https://github-readme-stats.vercel.app/api?username=Pitisko&show_icons=true&theme=light" alt="stats!"></a>
+<a href="https://github.com/Pitisko"> <img src="https://github-readme-stats.vercel.app/api?username=Pitisko&show_icons=true&theme=light" alt="stats!"></a>
 
 
