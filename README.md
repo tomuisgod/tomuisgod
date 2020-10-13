@@ -13,4 +13,3 @@
 <a href="https://github.com/veldik"> <img src="https://github-readme-stats.vercel.app/api?username=Pitisko&show_icons=true&theme=light" alt="stats!"></a>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oikzl7zjhyev2qg2i6emgmh7x4&cover_image=true)](https://open.spotify.com/user/31oikzl7zjhyev2qg2i6emgmh7x4)
