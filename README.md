@@ -3,7 +3,7 @@
 
 📍 | I mostly focus on creating open-source stuff
 
-⚙️ | I focus on using Python, Javascript, HTML&CSS 
+⚙️ | I focus on using Python, Javascript, HTML&CSS, Java 
 
 📬 | I work as Lead Developer in EventVerse
 
