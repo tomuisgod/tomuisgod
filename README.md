@@ -1,7 +1,7 @@
 # Helo I'm tomu
 👋 | I'm Discord bot developer from slovakia 
 
-📍 | I mostly create open-source stuff
+📍 | I mostly focus on creating open-source stuff
 
 ⚙️ | I focus on using Python, Javascript, HTML&CSS 
 
