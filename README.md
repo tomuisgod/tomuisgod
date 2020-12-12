@@ -11,8 +11,9 @@
 
 ### ⚙️ Languages I use:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp;
+<code><img alt="python" src="https://camo.githubusercontent.com/fea5acac7226ad7d4cb97b7ddc9bca876c546e4c969d4125b76098e401cc4203/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f707974686f6e2e706e67" data-canonical-src="https://img.icons8.com/color/240/000000/python.png" style="max-width:100%;" width="30px">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+
 <br>
 <br>
 <br>
