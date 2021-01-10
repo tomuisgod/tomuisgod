@@ -5,7 +5,7 @@
 <a href="https://instagram.com/kat.tomu"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 </p>
 <br>
-<p align="center">I'm Discord bot developer from Slovakia. I mainly focus on making open-source stuff that can help you learn. I'm currently working as Lead Developer in EventVerse</p>
+<p align="center">I'm Discord bot developer from Slovakia. I mainly focus on making open-source stuff that can help you learn. I'm currently working as Lead Developer in EventVerse.</p>
 <br>
 <br>
 
