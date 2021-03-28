@@ -33,6 +33,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomuisgod&layout=compact&theme=light" alt="Github top used languages">
 </div>
-<a href="https://github.com/tomuisgod"> <img src="https://github-readme-stats.vercel.app/api?username=tomuisgod&show_icons=true&theme=light" alt="stats!"></a>
 
 
