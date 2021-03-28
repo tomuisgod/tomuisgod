@@ -21,7 +21,7 @@
 <code><img alt="ubuntu" src="https://camo.githubusercontent.com/db5248fc3425ae9af90ab77b209d96f858fc8dfab4dc3ba71532a64b2e7f38f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f7562756e74752d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" style="max-width:100%;" width="26px"></code>&nbsp;
 
 ### 💻 | Projects 
-`UNRELEASED` <a href="https://github.com/Hallerovci/EdupageClient">Edupage Client </a> - Upcoming desktop application using Edupage-api. 
+---`UNRELEASED` <a href="https://github.com/Hallerovci/EdupageClient">Edupage Client </a> - Upcoming desktop application using Edupage-api. 
 <br>`UNRELEASED` <a href="https://github.com/tomuisgod/Leorio">Leorio </a> - Upcoming public open-source discord bot
 <br>
 <br>
