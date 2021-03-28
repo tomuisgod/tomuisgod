@@ -9,7 +9,7 @@
 <br>
 <br>
 
-### ⚙️ Languages, IDEs and OS I use:
+### ⚙️ | Languages, IDEs and OS I use:
 
 <code><img alt="python" src="https://camo.githubusercontent.com/fea5acac7226ad7d4cb97b7ddc9bca876c546e4c969d4125b76098e401cc4203/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f707974686f6e2e706e67" data-canonical-src="https://img.icons8.com/color/240/000000/python.png" style="max-width:100%;" width="26px"></code>&nbsp;
 <code><img alt="javascript" src="https://camo.githubusercontent.com/30223dd4dad432d13a8b95ce5cb7ea20825858f8ebce349e6945f931ced4e1bf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6a6176617363726970742e706e67" data-canonical-src="https://img.icons8.com/color/240/000000/javascript.png" style="max-width:100%;" width="26px"></code>&nbsp;
@@ -20,6 +20,8 @@
 <code><img alt="macos" src="https://camo.githubusercontent.com/7bbee380325de7484bed22d6bae062e06fbc7f02daa97525730727a5511c9e46/68747470733a2f2f696d672e69636f6e73382e636f6d2f6f66666963656c2f3136302f3030303030302f6d61632d6c6f676f2e706e67" data-canonical-src="https://img.icons8.com/officel/160/000000/mac-logo.png" style="max-width:100%;" width="26px"></code>&nbsp;
 <code><img alt="ubuntu" src="https://camo.githubusercontent.com/db5248fc3425ae9af90ab77b209d96f858fc8dfab4dc3ba71532a64b2e7f38f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f7562756e74752d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" style="max-width:100%;" width="26px"></code>&nbsp;
 
+### 💻 | Projects 
+<br>`UNRELEASED` <a href="https://github.com/Hallerovci/EdupageClient">Edupage Client </a> - Upcoming desktop application using Edupage-api. 
 
 <br>
 <br>
