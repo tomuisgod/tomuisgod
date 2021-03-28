@@ -22,7 +22,7 @@
 
 
 ### 💻 | Projects 
-<br>`UNRELEASED` <a href="https://github.com/Hallerovci/EdupageClient">Edupage Client </a> - Upcoming desktop application using Edupage-api. 
+`UNRELEASED` <a href="https://github.com/Hallerovci/EdupageClient">Edupage Client </a> - Upcoming desktop application using Edupage-api. 
 
 <br>
 <br>
