@@ -5,6 +5,7 @@
 <a href="https://instagram.com/kat.tomuu"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 </p>
 <br>
+---
 <p align="center">I'm a developer and huge weeb. I also play LoL a lot</p>
 <br>
 <br>
