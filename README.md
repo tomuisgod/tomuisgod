@@ -33,6 +33,7 @@
 <a href="https://github.com/tomuisgod"> <img src="https://img.shields.io/github/followers/tomuisgod.svg?color=474747&style=venrav&label=GitHub&logo=github" alt="Visitors!"></a>
 </div>
 <br>
+<br>
 <div align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomuisgod&layout=compact&theme=dark" alt="Github top used languages">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomuisgod&layout=compact&theme=dark" alt="Github top used languages">
