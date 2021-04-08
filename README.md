@@ -19,6 +19,9 @@
 <code><img alt="visual studio code" src="https://camo.githubusercontent.com/57f528d363944ba0c4151826973ce5dda859c2f9e9ada8798e22c677c180ead4/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f3234302f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" data-canonical-src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" style="max-width:100%;" width="26px"></code>&nbsp;
 <code><img alt="macos" src="https://camo.githubusercontent.com/7bbee380325de7484bed22d6bae062e06fbc7f02daa97525730727a5511c9e46/68747470733a2f2f696d672e69636f6e73382e636f6d2f6f66666963656c2f3136302f3030303030302f6d61632d6c6f676f2e706e67" data-canonical-src="https://img.icons8.com/officel/160/000000/mac-logo.png" style="max-width:100%;" width="26px"></code>&nbsp;
 <code><img alt="ubuntu" src="https://camo.githubusercontent.com/db5248fc3425ae9af90ab77b209d96f858fc8dfab4dc3ba71532a64b2e7f38f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f7562756e74752d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" style="max-width:100%;" width="26px"></code>&nbsp;
+<br>
+<br>
+<br>
 
 ### 💻 | Projects 
 ---
