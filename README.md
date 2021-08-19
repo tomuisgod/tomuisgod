@@ -27,7 +27,7 @@
 ---
 `UNRELEASED` <a href="https://github.com/Hallerovci/EdupageClient">Edupage Client </a> - Upcoming desktop application using Edupage-api 
 <br>`0.1` <a href="https://github.com/tomuisgod/Leorio">Leorio </a> - Upcoming public open-source discord bot
-<br>`1.6` <a href="https://github.com/tomuisgod/Leorio">Katto </a> - Discord bot for Katto editing group
+<br>`1.6` <a href="https://github.com/Katto-Bots/Katto">Katto </a> - Discord bot for Katto editing group
 <br>
 <br>
 
