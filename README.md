@@ -6,6 +6,10 @@
 </p>
 <br>
 <p align="center">I'm a developer and huge weeb. I also play LoL a lot</p>
+<div align="center">
+<img herf="https://discord.com/users/243804677735579648" src="https://lanyard-profile-readme.vercel.app/api/243804677735579648" alt="discord-profile">  
+<br>
+<br>
 <br>
 <br>
 
