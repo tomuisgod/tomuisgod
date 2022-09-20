@@ -1,11 +1,11 @@
-<h2 align="center">Helo, I'm tomu. 👋</h2>
+<h2 align="center">Github profile of Tomáš Lovrant👋</h2>
 
 <p align='center'>
 <a href="https://discord.com/users/243804677735579648"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/kat.tomuu"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
+<a href="https://instagram.com/tommmiik"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 </p>
 <br>
-<p align="center">I'm a developer and huge weeb. I also play LoL a lot</p>
+<p align="center">I'm a music enthusiast, ex-developer and lol player</p>
 <br>
 <br>
 
@@ -25,11 +25,13 @@
 
 ### 💻 | Projects 
 ---
+`EARLY STAGE OF DEVELOPMENT` <a href="https://github.com/tomuisgod/SEN1-GCM">SEN1 ANSWERS </a> - Answers to all works on SEN classes
 `UNRELEASED` <a href="https://github.com/Hallerovci/EdupageClient">Edupage Client </a> - Upcoming desktop application using Edupage-api 
 <br>`0.1` <a href="https://github.com/tomuisgod/Leorio">Leorio </a> - Upcoming public open-source discord bot
 <br>`1.6` <a href="https://github.com/Katto-Bots/Katto">Katto </a> - Discord bot for Katto editing group
 <br>
 <br>
+
 
 <div align = "center">
 <a href="http://tomu.glitch.me/"> <img src="https://img.shields.io/static/v1?label=Web&message=tomu.glitch.me&color=f6fd85&style=venrav" alt="My website!"></a> 
