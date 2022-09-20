@@ -26,7 +26,7 @@
 ### 💻 | Projects 
 ---
 `PLANNED` SEN3 ANSWERS - Answers to all works on SEN classes 3 in Python (Senior year)
-<br>`PLANNED`SEN2 ANSWERS - Answers to all works on SEN classes 2 in Python(Senior year)
+<br>`PLANNED` SEN2 ANSWERS - Answers to all works on SEN classes 2 in Python(Senior year)
 <br>`EARLY STAGE OF DEVELOPMENT` <a href="https://github.com/tomuisgod/SEN1-GCM">SEN1 ANSWERS </a> - Answers to all works on SEN classes in Pythong (Junior year)
 <br>`UNRELEASED` <a href="https://github.com/Hallerovci/EdupageClient">Edupage Client </a> - Upcoming desktop application using Edupage-api 
 <br>`0.1` <a href="https://github.com/tomuisgod/Leorio">Leorio </a> - Upcoming public open-source discord bot
