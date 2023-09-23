@@ -43,6 +43,7 @@
 <br>
 <div align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomuisgod&layout=compact&theme=dark" alt="Github top used languages">
+[![GitHub Streak](https://streak-stats.demolab.com?user=tomuisgod&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
   
 </div>
 
