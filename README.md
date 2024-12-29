@@ -15,7 +15,8 @@
 <br>
 <div align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomuisgod&layout=compact&theme=dark" alt="Github top used languages">
-[![Tomáš Lovrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomuisgod&show_icons=true&layout=compact&theme=dark)](https://github.com/tomuisgod)
+<img src"https://github-readme-stats.vercel.app/api?username=tomuisgod&show_icons=true&layout=compact&theme=dark" alt="Tomáš Lovrant's GitHub stats">
+  [![Tomáš Lovrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomuisgod&show_icons=true&layout=compact&theme=dark)](https://github.com/tomuisgod)
 
 </div>
 
