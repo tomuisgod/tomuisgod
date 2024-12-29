@@ -1,4 +1,4 @@
-<h2 align="center">Github profile of Tomáš Lovrant👋</h2>
+<h2 align="center">👋👋👋</h2>
 
 
 ### 💻 | Projects 
@@ -15,7 +15,7 @@
 <br>
 <div align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomuisgod&layout=compact&theme=dark" alt="Github top used languages">
-
+[![Tomáš Lovrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomuisgod&show_icons=true&layout=compact&theme=dark)](https://github.com/tomuisgod)
 
 </div>
 
